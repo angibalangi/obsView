@@ -1,0 +1,9 @@
+properties:
+  file.name:
+    displayName: Arquivos
+views:
+  - type: table
+    name: Table
+    sort:
+      - property: file.name
+        direction: ASC

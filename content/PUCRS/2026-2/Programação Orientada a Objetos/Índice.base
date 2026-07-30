@@ -1,0 +1,17 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("PUCRS/2026-2/Programação Orientada a Objetos/")
+    order:
+      - file.name
+      - file.ctime
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.path.contains("PUCRS/2026-2/Algorítimos e Estrutura de Dados I/")
+    order:
+      - file.name
+      - file.ctime
