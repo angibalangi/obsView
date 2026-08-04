@@ -15,3 +15,8 @@ Aqui você vai achar todos meus códigos, anotações de aula e updates de progr
 	- [[PUCRS/2026-2/Gerenciamento de Config. de Software/index|Gerenciamento de Config. de Software]]
 	- [[PUCRS/2026-2/Lógica para Computação/index|Lógica para Computação]]
 	- [[PUCRS/2026-2/Programação Orientada a Objetos/index|Programação Orientada a Objetos]]
+
+### ANOMALO
+- Notas
+	- [[Pessoal/ANOMALO/2026-7/index|2026/7]]
+- Arquivo de Imagens
