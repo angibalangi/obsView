@@ -1,5 +1,5 @@
 ---
-Title: Aula Introdutória (04/07)
+title: Aula Introdutória (04/07)
 ---
 Professor: Denise Bandeira
 Local: Prédio 32, sala 516
