@@ -10,9 +10,9 @@ Primeiro, vimos uma pirâmide que mostrava os níveis de abstração que temos q
 A Lei de Moore propõe que, a cada dois anos, a quantidade de transistores em um processador duplicaria. Embora tenha sido verdadeira por muitos anos, atualmente essa ideia se torna estagnada. Exploramos um pouco o porquê disso, com fenômenos quânticos acontecendo quando transistores se tornam cada vez menores, mas tambem entendemos que a duplicação de transistores não equivaleria, quando em escalas maiores, ao dobro do poder computacional, uma ideia proposta por Dennard. Isso resulta na criação de processadores de *dual core*, que aumentam a quantidade de processadores ao invés de tentar maximizar o potencial de um.
 Com avanços tecnológicos, a ideia de múltiplos cores resolvendo o problema proposto por Dennard também se torna obsoleta, pois muitos processamentos sequenciais não podem ser dividos entre os diferentes núcleos (Lei de Amdahl). Exploramos, nesse tópico, um pouco sobre o paralelismo e a microarquitetura, que dividem ações em diferentes passos para conseguir concluí-las com eficiência.
 - Diagrama 1 - Níveis de abstração na computação:
-![[niveisDeAbstracaoSWHW.dark.svg]]
+[[Excalidraw/niveisDeAbstracaoSWHW.dark.svg]]
 - Diagrama 2 - Funcionamento de processador Multi Thread:
-![[multiThreadArquitetura.dark.svg]]
+![multiThreadArquitetura.dark](Excalidraw/multiThreadArquitetura.dark.svg)
 ## Aspectos Importantes: 
 - Pouquíssimas são as companhias que conseguem fabricar processadores modernos devido ao desafio trazido pelo tamanho quântico dos transistores. Um exemplo de uma dessas fábricas é a TSMC;
 - Além do desafio intrínsico da prática, a fabricação desses processadores é dificultada por embargos econômicos e coisas do gênero;
