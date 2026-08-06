@@ -1,5 +1,5 @@
 ---
-title: Aula Introdutória (03/07)
+title: Aula Introdutória (03/08)
 ---
 Professor: Daniela Amaral
 Local: Prédio 32, sala 403

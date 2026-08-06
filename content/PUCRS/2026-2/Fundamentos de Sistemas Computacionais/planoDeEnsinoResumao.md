@@ -5,7 +5,7 @@ title: Plano de Ensino e Datas Importantes
 $$
 \frac{2\times P1+2 \times P2+ TP}{5}
 $$
-- P1 - Conteúdos das unidades 1 e 2);
+- P1 - Conteúdos das unidades 1 e 2;
 - P2 - Conteúdos das unidades 2, 3 e 4;
 - TP - Média dos trabalhos práticos feitos pelo semestre;
 ## Conteúdos:
