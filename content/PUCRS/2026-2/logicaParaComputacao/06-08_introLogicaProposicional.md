@@ -18,3 +18,7 @@ $$\land \lor$$
 $$\implies,\iff$$
 Quando utilizamos o sistema de prioridade, também devemos considerar a ordem de operações de mesma prioridade. Nesse caso, os símbolos $\land$ e $\lor$ são lidos da esquerda para a direita, enquanto $\implies$ e $\iff$ são lidos da direita para a esquerda.
 Finalmente, exploramos um pouco sobre formalização e sintaxe, fazendo exercícios. As listas estão disponíveis no moodle, ou acessíveis [aqui](PUCRS/2026-2/logicaParaComputacao/listas_introLogicaProposicional.md).
+## Aspectos Importantes:
+- A lógica proposicional não se pergunta se algo é realmente verdadeiro, somente se segue a lógica do verdadeiro e falso proposta pelo seu sistema;
+- Formalização significa transformar uma proposição da linguagem portuguesa à lógica proposicional;
+- A lista de revisão de formalização utilizada na aula é um pouco diferente da disponibilizada no moodle. A grande maioria é igual, porém.
