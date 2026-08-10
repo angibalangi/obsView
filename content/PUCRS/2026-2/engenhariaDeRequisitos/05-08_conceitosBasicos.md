@@ -2,7 +2,7 @@
 title: Conceitos Básicos (05/08)
 ---
 Professor: Azriel Majdenbaum
-Local: Prédio 32, sala 109
+Local: Prédio 15, sala 318
 Horário: NP (21:00 -> 22:30)
 ## Descrição da Aula:
 Eu não anotei muito nessa aula então a maioria vai ser da memória. O foco foi no processo de levantamento de requisitos, e as dificuldades que surgem nessa parte do desenvolvimento. Analisamos a tirinha abaixo:
