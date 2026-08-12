@@ -6,7 +6,7 @@ Local: Prédio 15, sala 318
 Horário: NP (21:00 -> 22:30)
 ## Descrição da Aula:
 Eu não anotei muito nessa aula então a maioria vai ser da memória. O foco foi no processo de levantamento de requisitos, e as dificuldades que surgem nessa parte do desenvolvimento. Analisamos a tirinha abaixo:
-![whatIfGiovanniWasNamedDilbert](PUCRS/Midia/whatIfGiovanniWasNamedDilbert.png)
+![whatIfGiovanniWasNamedDilbert](PUCRS/midia/whatIfGiovanniWasNamedDilbert.png)
 As reflexões mais notáveis foram:
 - Muitas vezes o cliente não sabe necessáriamente o que quer, trazendo dificuldades quando percebendo requisitos;
 - O uso de jargões e linguagem técnica, quando falando com alguém que pode desconhecer dessas coisas, pode trazer um ruído na comunicação;

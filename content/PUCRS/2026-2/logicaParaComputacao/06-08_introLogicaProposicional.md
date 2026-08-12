@@ -14,8 +14,12 @@ Além disso, foi comentado um pouco a prioridade e associatividade dos símbolos
 $$
 \neg
 $$
-$$\land \lor$$
-$$\implies,\iff$$
+$$
+\land \lor
+$$
+$$
+\implies,\iff
+$$
 Quando utilizamos o sistema de prioridade, também devemos considerar a ordem de operações de mesma prioridade. Nesse caso, os símbolos $\land$ e $\lor$ são lidos da esquerda para a direita, enquanto $\implies$ e $\iff$ são lidos da direita para a esquerda.
 Finalmente, exploramos um pouco sobre formalização e sintaxe, fazendo exercícios. As listas estão disponíveis no moodle, ou acessíveis [aqui](PUCRS/2026-2/logicaParaComputacao/listas_introLogicaProposicional.md).
 ## Aspectos Importantes:
