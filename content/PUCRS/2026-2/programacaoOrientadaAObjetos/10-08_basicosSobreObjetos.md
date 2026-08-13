@@ -1,6 +1,9 @@
 ---
 title: Conceitos Básicos sobre Objetos (10/08)
 ---
+Professor: Daniel Callegari
+Local: Prédio 32, sala 403
+Horário: JK (17:30 -> 19:00)
 ## Descrição da aula:
 Iniciamos a aula relembrando dos componentes básicos de um objeto, estes sendo o nome, atributos e operações dele. Entendemos um pouco mais do funcionamento básico de classes, como a função do ```private``` colocado no início dos atributos de um objeto. Esse termo impede que os valores armazenados naquela variável sejam interagidos por classes exteriores, necessitando de métodos como ```getAtributo``` e ```setAtributo``` para poder fazer essas alterações. Quando vazios, porém, esses métodos anulam a necessidade do private, por isso, eles são usados quando precisamos filtrar as informações que entram no sistema.
 Fizemos um exemplo disso em aula, simulando uma classe chamada Funcionario onde, para definir um salário, esse deve ser maior do que o salário mínimo e não ser menor do que o anterior:
